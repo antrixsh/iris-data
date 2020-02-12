@@ -15,13 +15,13 @@ Four features were measured from each sample: the length and the width of the se
 
 # Libreary Used in the code and why?
 
-pandas  #For reading the dataset
-numpy #For ndarrays
-matplotlib.pyplot  #For plotting of histogram graphs
-seaborn  #For plotting violin graphs and pair plot
-sklearn.linear_model  #For performing logistic Regression on the dataset
-sklearn.model_selection #For splitting dataset for training a model
-sklearn.preprocessing  # For scaling the data
-sklearn.model_selection  # For scoring
-sklearn.neighbors  # For applying KNN classification algorithm
-sklearn.ensemble  # For applying Random Forest algorithm
+1. pandas  #For reading the dataset
+2. numpy #For ndarrays
+3. matplotlib.pyplot  #For plotting of histogram graphs
+4. seaborn  #For plotting violin graphs and pair plot
+5. sklearn.linear_model  #For performing logistic Regression on the dataset
+6. sklearn.model_selection #For splitting dataset for training a model
+7. sklearn.preprocessing  # For scaling the data
+8. sklearn.model_selection  # For scoring
+9. sklearn.neighbors  # For applying KNN classification algorithm
+10. sklearn.ensemble  # For applying Random Forest algorithm
